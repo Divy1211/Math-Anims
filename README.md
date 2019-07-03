@@ -16,8 +16,5 @@
 
 3. The third program generates cardioids  
 
-4. Here is a single cardioid
-![](https://github.com/Divy1211/Math-Anims/geometric_patterns/1.gif)  
-
-4. Here are 4 cardioids  
-![](https://github.com/Divy1211/Math-Anims/geometric_patterns/4.gif)  
+4. Here is a single cardioid, you can change the variables in the program and it will make more in just one image  
+![](https://github.com/Divy1211/Math-Anims/geometric_patterns/ex.gif)  
