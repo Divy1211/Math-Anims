@@ -10,13 +10,13 @@
 
 1. The program called Ellipse demonstrates the property of an ellipse that the sum of focal distances for a point on the ellipse remains constant (it is equal to twice the length of the major (longer) axis of the ellipse)  
 
-![](https://github.com/Divy1211/Math-Anims/ellipse/sum.gif)
+![](https://github.com/Divy1211/Math-Anims/blob/master/ellipse/sum.gif)
 
 2. The program called Hyperbola demonstrates the property of a hyperbola that the absolute value of the difference of focal distances for a point on the hyperbola remains constant (it is equal to twice the length of the transverse (longer) axis of the hyperbola)
 
-![](https://github.com/Divy1211/Math-Anims/hyperbola/diff.gif)
+![](https://github.com/Divy1211/Math-Anims/blob/master/hyperbola/diff.gif)
 
 3. The third program generates cardioids  
 
 4. Here is a single cardioid, you can change the variables in the program and it will make more in just one image  
-![](https://github.com/Divy1211/Math-Anims/geometric_patterns/ex.gif)  
+![](https://github.com/Divy1211/Math-Anims/blob/master/geometric_patterns/ex.gif)  
